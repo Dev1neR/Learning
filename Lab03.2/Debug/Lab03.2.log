@@ -1,0 +1,4 @@
+﻿  Lab03.2.cpp
+c:\users\dev1ne\source\repos\lab03\lab03.2\lab03.2.cpp(11): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\dev1ne\source\repos\lab03\lab03.2\lab03.2.cpp(10): warning C4101: idx: неиспользованная локальная переменная
+  Lab03.2.vcxproj -> C:\Users\Dev1ne\source\repos\Lab03\Debug\Lab03.2.exe
