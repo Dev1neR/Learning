@@ -1,3 +1,0 @@
-﻿  Aud03.cpp
-c:\users\dev1ne\source\repos\aud03\aud03\aud03.cpp(14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-  Aud03.vcxproj -> C:\Users\Dev1ne\source\repos\Aud03\Debug\Aud03.exe
