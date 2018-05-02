@@ -1,5 +1,0 @@
-﻿  Task2.cpp
-c:\users\dev1ne\source\repos\lab05\horner\task2\task2.cpp(50): warning C4101: funcB: неиспользованная локальная переменная
-c:\users\dev1ne\source\repos\lab05\horner\task2\task2.cpp(50): warning C4101: funcC: неиспользованная локальная переменная
-c:\users\dev1ne\source\repos\lab05\horner\task2\task2.cpp(50): warning C4101: funcA: неиспользованная локальная переменная
-  Task2.vcxproj -> C:\Users\Dev1ne\source\repos\Lab05\Horner\Debug\Task2.exe
